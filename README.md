@@ -52,11 +52,3 @@ This project performs sentiment classification on Amazon product reviews using m
 - Converted categorical labels into numerical features
 - Transformed text reviews into TF-IDF vectors
 
----
-
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/amazon-sentiment-analysis.git
-   cd amazon-sentiment-analysis
